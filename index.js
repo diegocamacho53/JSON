@@ -1,5 +1,5 @@
 {
-  "jugadores"; [
+  "jugadores": [
       { "nombre": "Lionel Messi", "telefono": "+34 600 123 456" },
       { "nombre": "Cristiano Ronaldo", "telefono": "+39 700 654 321" },
       { "nombre": "Neymar Jr", "telefono": "+55 800 987 654" },
